@@ -1,0 +1,172 @@
+body{
+    background-image: linear-gradient(#7ae5e4, #3aa5a4);
+   
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+} 
+.about img{
+    width: 200px ;
+    height:200px ;
+    float: left;
+    padding: 10px;
+    position: relative;
+    top: -8px;
+
+}
+
+.imageP{
+    float: left;
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.divImageP{
+    overflow: hidden;
+    background-color: #ffffff;
+    margin: 40px;
+    padding: 30px;
+}
+
+
+
+.about p{
+    margin-left: 20px;
+}
+
+#box{
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 40px;
+    padding: 30px;
+}
+.column{
+    float:left;
+    box-sizing: border-box;
+    padding: 30px;
+    width: 33.33%;
+}
+.table img{
+    width: 100%;
+    height: 300px;
+}
+.work{
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 40px;
+    padding: 30px; 
+}
+.work h4{
+    position: relative;
+    bottom: 15px;
+}
+h3{
+font-size: 30px;
+}
+.education{
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 40px;
+    padding: 30px;
+}
+
+.table{
+    float: left;
+}
+#contact{ 
+    
+   
+
+ background-color: #ffffff;
+          overflow: hidden;
+          margin: 40px;
+         padding: 30px;
+}
+.table1 .column1 { 
+    float: left;
+    width:10.5%;
+    padding: 10px;
+    height: 50px;
+}
+.column1 p,h5{
+    font-size: 15px;
+}
+.spom{
+    float: left;
+    width:10.5%;
+    padding: 10px;
+    height: "30"px;
+}
+.langue{
+    background-color: #ffffff;
+          overflow: hidden;
+          margin: 40px;
+         padding: 30px;
+}  
+.langue p{
+    font-size: 20px;
+}
+.colum{ background-color: #ffffff;
+    overflow: hidden;
+    margin: 40px;
+   padding: 30px;
+
+    
+
+}
+.soscial{
+    float : left;
+    margin: 30px;
+    padding: 20px;
+    margin: 30px;
+    padding: 20px;
+     
+
+}
+input{ 
+     width: 900px;  
+          padding: 5px;
+          background-color:#e6e6e6;
+
+}
+#text{
+    height: 100px;
+}
+
+
+button{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+button:hover{
+    color: #3aa5a4;
+    transition: 1s;
+
+}
+footer{ 
+    text-align: center;
+    color: #ffffff;
+}
+#put{
+position: absolute;
+left: 50%;
+top: 0;
+opacity: 7.5%;
+z-index: -1;
+transform: translate(-50%, 0);
+}
+ 
+
+
+
+
+
